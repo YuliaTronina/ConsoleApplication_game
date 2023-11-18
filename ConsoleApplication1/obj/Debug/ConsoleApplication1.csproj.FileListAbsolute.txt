@@ -1,0 +1,10 @@
+/home/julia/RiderProjects/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
+/home/julia/RiderProjects/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb
+/home/julia/RiderProjects/ConsoleApplication1/ConsoleApplication1/bin/Debug/System.Drawing.Common.dll
+/home/julia/RiderProjects/ConsoleApplication1/ConsoleApplication1/bin/Debug/System.Drawing.Common.pdb
+/home/julia/RiderProjects/ConsoleApplication1/ConsoleApplication1/bin/Debug/System.Drawing.Common.xml
+/home/julia/RiderProjects/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.AssemblyReference.cache
+/home/julia/RiderProjects/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.CoreCompileInputs.cache
+/home/julia/RiderProjects/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.CopyComplete
+/home/julia/RiderProjects/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe
+/home/julia/RiderProjects/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb
